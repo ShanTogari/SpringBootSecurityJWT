@@ -8,7 +8,7 @@ public class SprinBootSecurityJwtApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SprinBootSecurityJwtApplication.class, args);
-
+        //Open postman
 		// Select POST type request
 		// Select body -> raw -> json
 //	     	{
