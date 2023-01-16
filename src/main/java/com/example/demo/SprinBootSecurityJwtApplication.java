@@ -8,16 +8,16 @@ public class SprinBootSecurityJwtApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SprinBootSecurityJwtApplication.class, args);
-	
-		
-		
+
+		// Select POST type request
+		// Select body -> raw -> json
 //	     	{
 //			"name": "SAM",
 //			"username":"sam",
 //			"password": "nit",
 //			"roles":["ADMIN","EMP"]
 //			}
-		//http://localhost:9090/user/save
+		// http://localhost:9090/user/save
 	}
 
 }
